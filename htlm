@@ -1,0 +1,51 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Pessoal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>João da Silva</h1>
+        
+        <p>Olá! Meu nome é João da Silva, tenho 25 anos e moro em São Paulo. Sou apaixonado por tecnologia, música e viagens. Atualmente estudo desenvolvimento web e pretendo me tornar um desenvolvedor full-stack. Nos meus tempos livres gosto de tocar violão, ler livros de ficção científica e explorar novos lugares.</p>
+        
+        <button id="mensagemBtn">Clique para ver uma mensagem!</button>
+        <div id="mensagem"></div>
+        
+        <h2>Meus Hobbies</h2>
+        <ul>
+            <li>Tocar violão</li>
+            <li>Ler livros</li>
+            <li>Viajar</li>
+        </ul>
+        
+        <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a5d4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Pessoa tocando violão">
+        
+        <h2>Países que quero visitar</h2>
+        <table>
+            <tr>
+                <th>País</th>
+                <th>Imagem</th>
+            </tr>
+            <tr>
+                <td>Japão</td>
+                <td><img src="https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=60" alt="Japão"></td>
+            </tr>
+            <tr>
+                <td>Itália</td>
+                <td><img src="https://images.unsplash.com/photo-1533676802871-eca1ae998cd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=60" alt="Itália"></td>
+            </tr>
+            <tr>
+                <td>Canadá</td>
+                <td><img src="https://images.unsplash.com/photo-1501594907352-04cda38ebc29?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=60" alt="Canadá"></td>
+            </tr>
+        </table>
+        
+        <a href="https://www.udemy.com/" target="_blank">Visite meu site favorito para aprender programação!</a>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
