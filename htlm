@@ -9,7 +9,7 @@
     <div class="container">
         <h1>João da Silva</h1>
         
-        <p>Olá! Meu nome é João da Silva, tenho 25 anos e moro em São Paulo. Sou apaixonado por tecnologia, música e viagens. Atualmente estudo desenvolvimento web e pretendo me tornar um desenvolvedor full-stack. Nos meus tempos livres gosto de tocar violão, ler livros de ficção científica e explorar novos lugares.</p>
+        <p>Olá! Meu nome é Geovani Barcelli, tenho 29 anos e moro em São Paulo. Sou apaixonado por tecnologia, música e viagens. Atualmente estudo Banco De Dados. Nos meus tempos livres gosto de tocar violão, ler livros de ficção científica e explorar novos lugares.</p>
         
         <button id="mensagemBtn">Clique para ver uma mensagem!</button>
         <div id="mensagem"></div>
